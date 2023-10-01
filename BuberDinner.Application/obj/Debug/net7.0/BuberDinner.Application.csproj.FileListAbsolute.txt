@@ -1,0 +1,12 @@
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
