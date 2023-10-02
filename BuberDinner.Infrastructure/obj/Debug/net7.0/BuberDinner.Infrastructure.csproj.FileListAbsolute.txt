@@ -10,3 +10,8 @@ C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\B
 C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\obj\Debug\net7.0\refint\BuberDinner.Infrastructure.dll
 C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.pdb
 C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\obj\Debug\net7.0\ref\BuberDinner.Infrastructure.dll
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.dll
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.pdb
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\Francisco Rangel\Documents\GitHub\BuberDinner-CleanArchitectureAndDdd\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CopyComplete
