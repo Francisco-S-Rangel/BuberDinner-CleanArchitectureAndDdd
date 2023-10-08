@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "F20Zxv877tnAJQZQZSVGGyC2HH600QIgC5HgNVIACtkXFPLDWeJ3e8YnipzicK7GoD58LeWj3TYLKlMtltISXA==",
+  "dgSpecHash": "uMxLZugEOPhIH1Xl8bL9qtuMIplUcSlAqdZRNa0XpuQgLF4teO3BCE6jtw1+Q2LLuoN9bTNmQn6pkAXYYkgCTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Francisco Rangel\\Documents\\GitHub\\BuberDinner-CleanArchitectureAndDdd\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.2\\microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.2\\microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.2\\microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.2\\microsoft.identitymodel.tokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.2\\system.identitymodel.tokens.jwt.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
