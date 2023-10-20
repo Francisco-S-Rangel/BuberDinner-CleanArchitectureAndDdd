@@ -1,9 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <!--Dotnet User Secret features ass this value below automatically in the Secret of the Jwt-->
+    <UserSecretsId>a0c75599-f083-4aaa-94d3-42b9aa6622be</UserSecretsId>
   </PropertyGroup>
 
 <!--

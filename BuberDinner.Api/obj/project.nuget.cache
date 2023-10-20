@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "94zA7HBxNMx9obgNiwnAfVR7BP8FHvFwZwnXhu31YODSPu9JMNEnuz8Obj7iTmOaCI+/61QLX1s5qY64Hj8ehA==",
+  "dgSpecHash": "JZVspHxCU+qcWfOpbNRusEQ4RDnqVSop4qG+DYqzTD0Fx74Zc2z78SvzyYDVPBMfKQa7DznZIZ3p3h0BHW6CLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Francisco Rangel\\Documents\\GitHub\\BuberDinner-CleanArchitectureAndDdd\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.2\\microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
     "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.2\\microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
     "C:\\Users\\Francisco Rangel\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.2\\microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
